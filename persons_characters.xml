@@ -17,18 +17,10 @@
         <text id="06_control_shares_pack_of_transport_company_name" need_translate="true" value=""/>
         <text id="07_control_shares_pack_of_petroleum_refinery_description" need_translate="true" value=""/>
         <text id="07_control_shares_pack_of_petroleum_refinery_name" need_translate="true" value=""/>
-        <text id="08_accumulation_description" need_translate="true" value=""/>
-        <text id="08_accumulation_name" need_translate="true" value=""/>
         <text id="09_found_bank_description" need_translate="true" value=""/>
         <text id="09_found_bank_name" need_translate="true" value=""/>
         <text id="10_found_oil_production_description" need_translate="true" value=""/>
         <text id="10_found_oil_production_name" need_translate="true" value=""/>
-        <text id="11_found_transport_company_description" need_translate="true" value=""/>
-        <text id="11_found_transport_company_name" need_translate="true" value=""/>
-        <text id="12_found_petroleum_refinery_description" need_translate="true" value=""/>
-        <text id="12_found_petroleum_refinery_name" need_translate="true" value=""/>
-        <text id="13_add_to_collection_aircrafts_description" need_translate="true" value=""/>
-        <text id="13_add_to_collection_aircrafts_name" need_translate="true" value=""/>
         <text id="14_add_to_collection_pictures_description" need_translate="true" value=""/>
         <text id="14_add_to_collection_pictures_name" need_translate="true" value=""/>
         <text id="15_add_to_collection_horses_description" need_translate="true" value=""/>
@@ -41,8 +33,6 @@
         <text id="18_add_to_collection_houses_name" need_translate="true" value=""/>
         <text id="19_add_to_collection_yachts_description" need_translate="true" value=""/>
         <text id="19_add_to_collection_yachts_name" need_translate="true" value=""/>
-        <text id="20_add_new_friends_description" need_translate="true" value=""/>
-        <text id="20_add_new_friends_name" need_translate="true" value=""/>
         <text id="21_want_to_be_governor_description" need_translate="true" value=""/>
         <text id="21_want_to_be_governor_name" need_translate="true" value=""/>
         <text id="22_want_to_be_treasurer_description" need_translate="true" value=""/>
@@ -72,6 +62,8 @@
         <text id="6" need_translate="true" value=""/>
         <text id="7" need_translate="true" value=""/>
     </categories>
+    <coins_descriptions/>
+    <coins_names/>
     <description_player>
         <text id="aggressive" need_translate="true" value=""/>
         <text id="alcoholic" need_translate="true" value=""/>

@@ -2,7 +2,6 @@
 <gui>
     <achievement_window>
         <text id="achievement" need_translate="true" value=""/>
-        <text id="achievement_is_continious" need_translate="true" value=""/>
         <text id="achievement_is_not_continious" need_translate="true" value=""/>
         <text id="bonus" need_translate="true" value=""/>
         <text id="collector_completed_hint" need_translate="true" value=""/>
@@ -32,14 +31,7 @@
         <text id="hire" need_translate="true" value=""/>
         <text id="level" need_translate="true" value=""/>
     </agent_card>
-    <agent_dossier>
-        <text id="agent_dossier" need_translate="true" value=""/>
-        <text id="biography" need_translate="true" value=""/>
-        <text id="information" need_translate="true" value=""/>
-        <text id="level" need_translate="true" value=""/>
-        <text id="name" need_translate="true" value=""/>
-        <text id="skills" need_translate="true" value=""/>
-    </agent_dossier>
+    <agent_hints/>
     <agent_research>
         <text id="accident_goal" need_translate="true" value=""/>
         <text id="agent_effect" need_translate="true" value=""/>
@@ -101,34 +93,17 @@
     <agent_skill>
         <text id="apply" need_translate="true" value=""/>
     </agent_skill>
-    <agent_skills_window>
-        <text id="agents_skills" need_translate="true" value=""/>
-        <text id="pay" need_translate="true" value=""/>
-    </agent_skills_window>
+    <agent_skill_tooltip/>
     <agents_board>
         <text id="agents_board" need_translate="true" value=""/>
         <text id="assistants" need_translate="true" value=""/>
     </agents_board>
-    <agents_handler>
-        <text id="agent_serve_a_term_of_inprisonment" need_translate="true" value=""/>
-        <text id="agent_was_used" need_translate="true" value=""/>
-        <text id="calculate_on_agent_level" need_translate="true" value=""/>
-        <text id="credit_pay_off" need_translate="true" value=""/>
-        <text id="credit_payment_arrerage" need_translate="true" value=""/>
-        <text id="get_agent_text" need_translate="true" value=""/>
-        <text id="skill_temporarily_blocked" need_translate="true" value=""/>
-    </agents_handler>
-    <agents_window>
-        <text id="agents" need_translate="true" value=""/>
-        <text id="influence_agents" need_translate="true" value=""/>
-    </agents_window>
     <ambition_popup>
         <text id="conditions" need_translate="true" value=""/>
         <text id="days_left" need_translate="true" value=""/>
         <text id="deal_sum" need_translate="true" value=""/>
         <text id="influence" need_translate="true" value=""/>
         <text id="loyality" need_translate="true" value=""/>
-        <text id="loyality_change" need_translate="true" value=""/>
         <text id="shares_count" need_translate="true" value=""/>
     </ambition_popup>
     <any_words>
@@ -246,10 +221,7 @@
     </auction_window>
     <text id="autosave" need_translate="true" value=""/>
     <bankrupt_window>
-        <text id="allert_bankrupt" need_translate="true" value=""/>
         <text id="close" need_translate="true" value=""/>
-        <text id="fix_sotuation" need_translate="true" value=""/>
-        <text id="message_bankrupt" need_translate="true" value=""/>
         <text id="skip" need_translate="true" value=""/>
     </bankrupt_window>
     <bonuse_roulette>
@@ -261,9 +233,6 @@
         <text id="start" need_translate="true" value=""/>
         <text id="stop" need_translate="true" value=""/>
     </bonuse_roulette>
-    <border_button>
-        <text id="button" need_translate="true" value=""/>
-    </border_button>
     <broker_window>
         <text id="blocked_button_hint" need_translate="true" value=""/>
         <text id="broker_coeff" need_translate="true" value=""/>
@@ -274,8 +243,6 @@
         <text id="total_sum" need_translate="true" value=""/>
     </broker_window>
     <cabinet_window>
-        <text id="raut_warning" need_translate="true" value=""/>
-        <text id="raut_warning_detail" need_translate="true" value=""/>
         <text id="window_title" need_translate="true" value=""/>
     </cabinet_window>
     <cancel_event_popup>
@@ -351,7 +318,6 @@
         <text id="name" need_translate="true" value=""/>
         <text id="no_companies_in_this_state" need_translate="true" value=""/>
         <text id="oops" need_translate="true" value=""/>
-        <text id="profit" need_translate="true" value=""/>
         <text id="profitability" need_translate="true" value=""/>
         <text id="size" need_translate="true" value=""/>
         <text id="state" need_translate="true" value=""/>
@@ -359,6 +325,7 @@
         <text id="stock_not_avaliable" need_translate="true" value=""/>
         <text id="type" need_translate="true" value=""/>
     </companies_table>
+    <company_director_window/>
     <company_event>
         <text id="accident_header" need_translate="true" value=""/>
         <text id="accident_text" need_translate="true" value=""/>
@@ -376,41 +343,8 @@
         <text id="strike_text_working_hours" need_translate="true" value=""/>
     </company_event>
     <company_handler>
-        <text id="accident_risk" need_translate="true" value=""/>
-        <text id="administrative_expenses" need_translate="true" value=""/>
-        <text id="adress_generation_is_impossible" need_translate="true" value=""/>
-        <text id="available_primary" need_translate="true" value=""/>
-        <text id="available_products" need_translate="true" value=""/>
-        <text id="base_productivity" need_translate="true" value=""/>
-        <text id="capitalization" need_translate="true" value=""/>
         <text id="company_name_is_inaccessible" need_translate="true" value=""/>
-        <text id="expenses" need_translate="true" value=""/>
-        <text id="fact_productivity" need_translate="true" value=""/>
-        <text id="federal_tax" need_translate="true" value=""/>
-        <text id="goodwill" need_translate="true" value=""/>
-        <text id="infrastructure" need_translate="true" value=""/>
-        <text id="logistics" need_translate="true" value=""/>
-        <text id="margin" need_translate="true" value=""/>
-        <text id="market_part" need_translate="true" value=""/>
-        <text id="motivation" need_translate="true" value=""/>
         <text id="not_enough_place_for_new_company" need_translate="true" value=""/>
-        <text id="other_countries_export" need_translate="true" value=""/>
-        <text id="other_countries_import" need_translate="true" value=""/>
-        <text id="primary_to_secondary" need_translate="true" value=""/>
-        <text id="proceeds" need_translate="true" value=""/>
-        <text id="product_price" need_translate="true" value=""/>
-        <text id="production_expenses" need_translate="true" value=""/>
-        <text id="profit" need_translate="true" value=""/>
-        <text id="profitability" need_translate="true" value=""/>
-        <text id="salary" need_translate="true" value=""/>
-        <text id="share_fair_price" need_translate="true" value=""/>
-        <text id="state_tax" need_translate="true" value=""/>
-        <text id="strike_risk" need_translate="true" value=""/>
-        <text id="technologies" need_translate="true" value=""/>
-        <text id="workers_count" need_translate="true" value=""/>
-        <text id="working_condition" need_translate="true" value=""/>
-        <text id="working_hours" need_translate="true" value=""/>
-        <text id="workplaces_count" need_translate="true" value=""/>
     </company_handler>
     <company_info_panel>
         <text id="branch" need_translate="true" value=""/>
@@ -436,8 +370,12 @@
         <text id="share_fair_price" need_translate="true" value=""/>
         <text id="shareholder" need_translate="true" value=""/>
         <text id="shares_portion" need_translate="true" value=""/>
+        <status/>
         <text id="year_roi" need_translate="true" value=""/>
     </company_info_panel>
+    <company_statistics_10>
+        <cards/>
+    </company_statistics_10>
     <company_window>
         <text id="action" need_translate="true" value=""/>
         <text id="ambitions" need_translate="true" value=""/>
@@ -657,9 +595,6 @@
         <text id="turnover_bonus" need_translate="true" value=""/>
         <text id="type" need_translate="true" value=""/>
     </directors_dialog>
-    <directors_handler>
-        <text id="some_directors_skill_is_worked" need_translate="true" value=""/>
-    </directors_handler>
     <directors_window>
         <text id="active_buildings" need_translate="true" value=""/>
         <text id="attention_focuse" need_translate="true" value=""/>
@@ -859,21 +794,8 @@
     <discussion_history_log>
         <text id="dialog_fail" need_translate="true" value=""/>
         <text id="dialog_success" need_translate="true" value=""/>
-        <text id="dialog_success_loan" need_translate="true" value=""/>
-        <text id="first_offer" need_translate="true" value=""/>
         <text id="next_offer" need_translate="true" value=""/>
-        <text id="player_offer" need_translate="true" value=""/>
-        <text id="player_offer_pay_loan" need_translate="true" value=""/>
-        <text id="player_offer_take_loan" need_translate="true" value=""/>
-        <text id="round" need_translate="true" value=""/>
     </discussion_history_log>
-    <discussion_info_popup>
-        <text id="cancel_negotiation" need_translate="true" value=""/>
-        <text id="deal_chance" need_translate="true" value=""/>
-        <text id="if_cancel" need_translate="true" value=""/>
-        <text id="meeting" need_translate="true" value=""/>
-        <text id="popup_title_negotiation" need_translate="true" value=""/>
-    </discussion_info_popup>
     <discussion_offer>
         <text id="agree" need_translate="true" value=""/>
         <text id="counter_offer" need_translate="true" value=""/>
@@ -913,7 +835,7 @@
     <discussion_window>
         <text id="agree" need_translate="true" value=""/>
         <text id="analysis" need_translate="true" value=""/>
-        <text id="contract" need_translate="true" value=""/>
+        <authority/>
         <text id="contract_condition" need_translate="true" value=""/>
         <text id="deal_chance" need_translate="true" value=""/>
         <text id="deal_history" need_translate="true" value=""/>
@@ -936,6 +858,7 @@
         <text id="neutral_result1" need_translate="true" value=""/>
         <text id="neutral_result2" need_translate="true" value=""/>
         <text id="offer" need_translate="true" value=""/>
+        <official/>
         <text id="opponent_sign" need_translate="true" value=""/>
         <text id="player_sign" need_translate="true" value=""/>
         <text id="positive_result" need_translate="true" value=""/>
@@ -1006,6 +929,8 @@
         <text id="now" need_translate="true" value=""/>
         <text id="rivals" need_translate="true" value=""/>
     </economic>
+    <election_campaign_window/>
+    <end_game_popup/>
     <event_result>
         <text id="button_next" need_translate="true" value=""/>
         <text id="fail_text" need_translate="true" value=""/>
@@ -1084,6 +1009,7 @@
         <text id="you_will_get" need_translate="true" value=""/>
         <text id="you_will_lose" need_translate="true" value=""/>
     </game_events_handler>
+    <game_lose_popup/>
     <guest_card>
         <text id="communicate" need_translate="true" value=""/>
         <text id="impression" need_translate="true" value=""/>
@@ -1139,6 +1065,8 @@
         <text id="share_fraction" need_translate="true" value=""/>
         <text id="shareholder" need_translate="true" value=""/>
     </item_with_check_model>
+    <law_archive/>
+    <law_window/>
     <left_panel>
         <text id="h_1" need_translate="true" value=""/>
         <text id="h_2" need_translate="true" value=""/>
@@ -1188,6 +1116,7 @@
         <text id="network_game" need_translate="true" value=""/>
         <text id="sandbox" need_translate="true" value=""/>
     </main_menu>
+    <manipulation_popup/>
     <map_check>
         <text id="auction" need_translate="true" value=""/>
         <text id="init_price" need_translate="true" value=""/>
@@ -1344,6 +1273,7 @@
         <text id="summer" need_translate="true" value=""/>
         <text id="winter" need_translate="true" value=""/>
     </month_switcher>
+    <negotiation_cost_tooltip/>
     <news_makets>
         <text id="accident_caption" need_translate="true" value=""/>
         <text id="accident_text" need_translate="true" value=""/>
@@ -1358,16 +1288,10 @@
         <text id="ambition_positive_text" need_translate="true" value=""/>
         <text id="charity_event_caption" need_translate="true" value=""/>
         <text id="charity_event_text" need_translate="true" value=""/>
-        <text id="elections_passed_caption" need_translate="true" value=""/>
-        <text id="elections_passed_text_1" need_translate="true" value=""/>
-        <text id="elections_passed_text_2" need_translate="true" value=""/>
-        <text id="elections_passed_text_3" need_translate="true" value=""/>
-        <text id="elections_passed_text_4" need_translate="true" value=""/>
         <text id="feudfrom_proprietor_text" need_translate="true" value=""/>
         <text id="feudfrom_сompetitor_text" need_translate="true" value=""/>
         <text id="give_loan_text" need_translate="true" value=""/>
         <text id="hiring_director_caption" need_translate="true" value=""/>
-        <text id="hiring_director_text" need_translate="true" value=""/>
         <text id="horse_racing_caption" need_translate="true" value=""/>
         <text id="horse_racing_text" need_translate="true" value=""/>
         <text id="invite_to_dinner_caption" need_translate="true" value=""/>
@@ -1445,6 +1369,7 @@
         <text id="self" need_translate="true" value=""/>
         <text id="world" need_translate="true" value=""/>
     </news_window>
+    <official_person/>
     <official_window>
         <text id="beliefs" need_translate="true" value=""/>
         <text id="characteristics" need_translate="true" value=""/>
@@ -1501,14 +1426,10 @@
         <text id="friend_relation" need_translate="true" value=""/>
         <text id="investor" need_translate="true" value=""/>
         <text id="investor_in_genetive" need_translate="true" value=""/>
-        <text id="loyality_bonus" need_translate="true" value=""/>
         <text id="married" need_translate="true" value=""/>
         <text id="neutral_relation" need_translate="true" value=""/>
-        <text id="official" need_translate="true" value=""/>
-        <text id="official_in_genetive" need_translate="true" value=""/>
         <text id="player" need_translate="true" value=""/>
         <text id="player_in_genetive" need_translate="true" value=""/>
-        <text id="politician" need_translate="true" value=""/>
         <text id="politician_in_genetive" need_translate="true" value=""/>
         <text id="relation_type" need_translate="true" value=""/>
         <text id="religion_atheist" need_translate="true" value=""/>
@@ -1824,6 +1745,7 @@
         <text id="table_header_state" need_translate="true" value=""/>
         <text id="table_header_summ" need_translate="true" value=""/>
         <text id="table_leader_name" need_translate="true" value=""/>
+        <tax_templates/>
         <text id="total" need_translate="true" value=""/>
         <text id="window_title" need_translate="true" value=""/>
     </player_finances_window>
@@ -1880,10 +1802,8 @@
     <player_window>
         <text id="achievement_window" need_translate="true" value=""/>
         <text id="agent" need_translate="true" value=""/>
-        <text id="agent_has_no_learned_skills" need_translate="true" value=""/>
         <text id="agent_hint_header" need_translate="true" value=""/>
         <text id="agent_hint_text" need_translate="true" value=""/>
-        <text id="agent_is_working" need_translate="true" value=""/>
         <text id="arrive_to_state" need_translate="true" value=""/>
         <text id="assets" need_translate="true" value=""/>
         <text id="assets_hint_header" need_translate="true" value=""/>
@@ -1891,18 +1811,11 @@
         <text id="assistants_window" need_translate="true" value=""/>
         <text id="buy_shares" need_translate="true" value=""/>
         <text id="buy_shares_with_company_name" need_translate="true" value=""/>
-        <text id="calendar_add_date" need_translate="true" value=""/>
-        <text id="calendar_moving" need_translate="true" value=""/>
-        <text id="calendar_no_planned_event" need_translate="true" value=""/>
-        <text id="calendar_rout" need_translate="true" value=""/>
         <text id="cancel_choose" need_translate="true" value=""/>
         <text id="characteristics" need_translate="true" value=""/>
         <text id="choose_event_date" need_translate="true" value=""/>
-        <text id="compromat_already_exists" need_translate="true" value=""/>
         <text id="conviction" need_translate="true" value=""/>
         <text id="convictions" need_translate="true" value=""/>
-        <text id="courtesan_already_exists" need_translate="true" value=""/>
-        <text id="courtesan_only_for_male" need_translate="true" value=""/>
         <text id="diplomacy_left_area_hint_header" need_translate="true" value=""/>
         <text id="diplomacy_left_area_hint_text" need_translate="true" value=""/>
         <text id="economics_left_area_hint_header" need_translate="true" value=""/>
@@ -1919,7 +1832,6 @@
         <text id="influence_skill_left_area_hint_text" need_translate="true" value=""/>
         <text id="make_connection" need_translate="true" value=""/>
         <text id="make_present" need_translate="true" value=""/>
-        <text id="menu_agent_applied_on_current_step" need_translate="true" value=""/>
         <text id="menu_assistant" need_translate="true" value=""/>
         <text id="menu_assistant_fire" need_translate="true" value=""/>
         <text id="menu_assistant_hire" need_translate="true" value=""/>
@@ -1938,7 +1850,6 @@
         <text id="menu_loyality_need_to_be_an_control_shareholder" need_translate="true" value=""/>
         <text id="menu_make_connection" need_translate="true" value=""/>
         <text id="menu_negotation" need_translate="true" value=""/>
-        <text id="menu_no_agents" need_translate="true" value=""/>
         <text id="menu_no_company" need_translate="true" value=""/>
         <text id="menu_not_enough_influence" need_translate="true" value=""/>
         <text id="menu_ownerships" need_translate="true" value=""/>
@@ -2005,7 +1916,6 @@
         <text id="skills" need_translate="true" value=""/>
         <text id="state" need_translate="true" value=""/>
         <text id="summary" need_translate="true" value=""/>
-        <text id="trasher_already_exists" need_translate="true" value=""/>
         <text id="travel_to" need_translate="true" value=""/>
         <text id="unlock_person_text" need_translate="true" value=""/>
         <text id="window_title" need_translate="true" value=""/>
@@ -2024,36 +1934,12 @@
         <text id="financing_by_step" need_translate="true" value=""/>
         <text id="popularity" need_translate="true" value=""/>
     </politican_finance_panel>
-    <politican_handler>
-        <text id="console_message_time_cost_because_opponent_marshal_influence" need_translate="true" value=""/>
-        <text id="election_date" need_translate="true" value=""/>
-        <text id="information" need_translate="true" value=""/>
-        <text id="problems" need_translate="true" value=""/>
-        <text id="time_cost_because_opponent_marshal_influence" need_translate="true" value=""/>
-        <text id="you_escape_marshal_pursuit_because_justice_is_your_man" need_translate="true" value=""/>
-    </politican_handler>
-    <politican_object>
-        <text id="congress_candidate" need_translate="true" value=""/>
-        <text id="congressman" need_translate="true" value=""/>
-        <text id="congressman_in_genetive" need_translate="true" value=""/>
-        <text id="legislature_candidate" need_translate="true" value=""/>
-        <text id="legislature_congressman" need_translate="true" value=""/>
-        <text id="legislature_congressman_in_genetive" need_translate="true" value=""/>
-        <text id="legislature_senator" need_translate="true" value=""/>
-        <text id="legislature_senator_in_genetive" need_translate="true" value=""/>
-        <text id="politician" need_translate="true" value=""/>
-        <text id="senator" need_translate="true" value=""/>
-        <text id="senator_in_genetive" need_translate="true" value=""/>
-    </politican_object>
     <politican_panel>
         <text id="bribe_size" need_translate="true" value=""/>
         <text id="disclosing_risk" need_translate="true" value=""/>
         <text id="popularity" need_translate="true" value=""/>
     </politican_panel>
-    <politicans_window>
-        <text id="limited_for_alpha_version" need_translate="true" value=""/>
-        <text id="state_politicans" need_translate="true" value=""/>
-    </politicans_window>
+    <politician_person/>
     <politician_window>
         <text id="characteristics" need_translate="true" value=""/>
         <text id="end_term" need_translate="true" value=""/>
@@ -2081,6 +1967,14 @@
         <text id="sponsors_hint" need_translate="true" value=""/>
         <text id="sponsors_hint_text" need_translate="true" value=""/>
     </politician_window>
+    <popups>
+        <cancel_negotiation/>
+        <fire_assistant/>
+        <hire_assistant/>
+        <loot_agent/>
+        <low_loyality/>
+    </popups>
+    <power_tooltip/>
     <previous_panel>
         <text id="business_offer " need_translate="true" value=""/>
         <text id="days" need_translate="true" value=""/>
@@ -2094,6 +1988,7 @@
         <text id="you_will_get" need_translate="true" value=""/>
         <text id="you_will_lose" need_translate="true" value=""/>
     </random_game_events>
+    <rating_window/>
     <relations_handler>
         <text id="agent_using" need_translate="true" value=""/>
         <text id="ambitions" need_translate="true" value=""/>
@@ -2141,6 +2036,7 @@
         <text id="title" need_translate="true" value=""/>
         <text id="total_cost" need_translate="true" value=""/>
     </release_bond_window>
+    <reputation/>
     <save_dialog>
         <text id="load" need_translate="true" value=""/>
     </save_dialog>
@@ -2154,7 +2050,6 @@
         <text id="create" need_translate="true" value=""/>
         <text id="detail_variant" need_translate="true" value=""/>
         <text id="dossier" need_translate="true" value=""/>
-        <text id="economy_win" need_translate="true" value=""/>
         <text id="euroopoid" need_translate="true" value=""/>
         <text id="exp_investor" need_translate="true" value=""/>
         <text id="female" need_translate="true" value=""/>
@@ -2174,7 +2069,6 @@
         <text id="medium_world" need_translate="true" value=""/>
         <text id="model_variant" need_translate="true" value=""/>
         <text id="mongoloid" need_translate="true" value=""/>
-        <text id="monopoly" need_translate="true" value=""/>
         <text id="name_and_surname" need_translate="true" value=""/>
         <text id="negroid" need_translate="true" value=""/>
         <text id="newbie" need_translate="true" value=""/>
@@ -2184,7 +2078,6 @@
         <text id="person_race" need_translate="true" value=""/>
         <text id="person_sex" need_translate="true" value=""/>
         <text id="plutocrat" need_translate="true" value=""/>
-        <text id="politial_influence" need_translate="true" value=""/>
         <text id="ripe" need_translate="true" value=""/>
         <text id="save" need_translate="true" value=""/>
         <text id="select_person" need_translate="true" value=""/>
@@ -2194,7 +2087,6 @@
         <text id="start_time" need_translate="true" value=""/>
         <text id="state" need_translate="true" value=""/>
         <text id="summary" need_translate="true" value=""/>
-        <text id="superiority" need_translate="true" value=""/>
         <text id="tie_variant" need_translate="true" value=""/>
         <text id="top" need_translate="true" value=""/>
         <text id="usa" need_translate="true" value=""/>
@@ -2204,6 +2096,7 @@
         <text id="world_size" need_translate="true" value=""/>
         <text id="young" need_translate="true" value=""/>
     </sb_settings>
+    <select_director_window/>
     <settings_window>
         <text id="2k" need_translate="true" value=""/>
         <text id="4k" need_translate="true" value=""/>
@@ -2235,6 +2128,7 @@
         <text id="softly" need_translate="true" value=""/>
         <text id="sound_config" need_translate="true" value=""/>
     </settings_window>
+    <shares_emission_popup/>
     <shares_transfer>
         <text id="player_bought_some_percent_some_company_safety_stock" need_translate="true" value=""/>
     </shares_transfer>
@@ -2255,6 +2149,7 @@
         <text id="state" need_translate="true" value=""/>
         <text id="window_title" need_translate="true" value=""/>
     </start_negotation_window>
+    <state_politic_window/>
     <state_window>
         <text id="avg_salary" need_translate="true" value=""/>
         <text id="companies" need_translate="true" value=""/>
@@ -2289,10 +2184,7 @@
         <text id="assets_summary_total" need_translate="true" value=""/>
         <text id="assistants" need_translate="true" value=""/>
         <text id="avaliable_influence" need_translate="true" value=""/>
-        <text id="base_influence" need_translate="true" value=""/>
         <text id="cash" need_translate="true" value=""/>
-        <text id="companies_influence_change" need_translate="true" value=""/>
-        <text id="company_influence" need_translate="true" value=""/>
         <text id="confidence_summary_total" need_translate="true" value=""/>
         <text id="cost" need_translate="true" value=""/>
         <text id="credits" need_translate="true" value=""/>
@@ -2300,7 +2192,6 @@
         <text id="estate_summary_total" need_translate="true" value=""/>
         <text id="financial_support" need_translate="true" value=""/>
         <text id="free_cash" need_translate="true" value=""/>
-        <text id="free_influence" need_translate="true" value=""/>
         <text id="free_influence_description" need_translate="true" value=""/>
         <text id="influence" need_translate="true" value=""/>
         <text id="influence_per_day" need_translate="true" value=""/>
@@ -2309,13 +2200,10 @@
         <text id="interest_summary_total" need_translate="true" value=""/>
         <text id="intrinsic_prestige" need_translate="true" value=""/>
         <text id="lending_and_obligations" need_translate="true" value=""/>
-        <text id="max_influence" need_translate="true" value=""/>
         <text id="max_influence_description" need_translate="true" value=""/>
         <text id="obligations_and_deposits" need_translate="true" value=""/>
         <text id="ownerships_profit" need_translate="true" value=""/>
         <text id="passives" need_translate="true" value=""/>
-        <text id="personal_influence_change" need_translate="true" value=""/>
-        <text id="politician_influence" need_translate="true" value=""/>
         <text id="power" need_translate="true" value=""/>
         <text id="power_per_step" need_translate="true" value=""/>
         <text id="prestige" need_translate="true" value=""/>
@@ -2337,33 +2225,17 @@
         <text id="total_influence" need_translate="true" value=""/>
     </statistics_popup_handler>
     <statistics_window>
-        <text id="administrative_expenses" need_translate="true" value=""/>
-        <text id="bonuse" need_translate="true" value=""/>
-        <text id="company_and_state" need_translate="true" value=""/>
+        <buildings/>
         <text id="company_name" need_translate="true" value=""/>
-        <text id="dividends" need_translate="true" value=""/>
-        <text id="expenses" need_translate="true" value=""/>
-        <text id="export" need_translate="true" value=""/>
-        <text id="federal_tax" need_translate="true" value=""/>
-        <header>
-            <text id="dynamic" need_translate="true" value=""/>
-            <text id="expenses" need_translate="true" value=""/>
-            <text id="forecast" need_translate="true" value=""/>
-            <text id="industry_dunamic" need_translate="true" value=""/>
-            <text id="leader" need_translate="true" value=""/>
-            <text id="middle" need_translate="true" value=""/>
-            <text id="value" need_translate="true" value=""/>
-        </header>
-        <text id="local_market" need_translate="true" value=""/>
+        <editable/>
+        <finances/>
+        <hints/>
         <text id="market_part" need_translate="true" value=""/>
+        <names/>
         <text id="proceeds" need_translate="true" value=""/>
-        <text id="productive_expenses" need_translate="true" value=""/>
         <text id="profit" need_translate="true" value=""/>
-        <text id="profitability" need_translate="true" value=""/>
-        <text id="salary" need_translate="true" value=""/>
-        <text id="state_tax" need_translate="true" value=""/>
-        <text id="taxis" need_translate="true" value=""/>
-        <text id="total_expenses" need_translate="true" value=""/>
+        <strategy/>
+        <work_condition/>
     </statistics_window>
     <step_switcher>
         <text id="autumn" need_translate="true" value=""/>
@@ -2379,6 +2251,7 @@
         <text id="summer" need_translate="true" value=""/>
         <text id="winter" need_translate="true" value=""/>
     </step_switcher>
+    <technologies_popup/>
     <under_construction>
         <text id="build_number" need_translate="true" value=""/>
         <text id="hello_i_am_test_version_of_game" need_translate="true" value=""/>
@@ -2390,6 +2263,7 @@
         <text id="truly_yours_alpha_version" need_translate="true" value=""/>
         <text id="you_can_help_me" need_translate="true" value=""/>
     </under_construction>
+    <update_loyality_popup/>
     <user_statistic>
         <text id="influence_per_step" need_translate="true" value=""/>
         <text id="influence_per_step_desc" need_translate="true" value=""/>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <crimes>
+    <crime_type/>
     <effects>
         <text id="arrets_chance" need_translate="true" value=""/>
         <text id="jail_time_text" need_translate="true" value=""/>
@@ -12,25 +13,14 @@
         <text id="low_loyality" need_translate="true" value=""/>
         <text id="no_assistants" need_translate="true" value=""/>
     </hints>
+    <other/>
     <popup>
-        <text id="arrest_result_header_1" need_translate="true" value=""/>
-        <text id="arrest_result_header_2" need_translate="true" value=""/>
-        <text id="arrest_result_text_1" need_translate="true" value=""/>
-        <text id="arrest_result_text_2" need_translate="true" value=""/>
         <text id="court_popup_1" need_translate="true" value=""/>
         <text id="court_popup_1_hover" need_translate="true" value=""/>
         <text id="court_popup_2" need_translate="true" value=""/>
         <text id="court_popup_2_hover" need_translate="true" value=""/>
         <text id="court_popup_header" need_translate="true" value=""/>
         <text id="court_popup_text" need_translate="true" value=""/>
-        <text id="court_result_header" need_translate="true" value=""/>
-        <text id="court_result_header_1" need_translate="true" value=""/>
-        <text id="court_result_header_2" need_translate="true" value=""/>
-        <text id="court_result_header_3" need_translate="true" value=""/>
-        <text id="court_result_text" need_translate="true" value=""/>
-        <text id="court_result_text_1" need_translate="true" value=""/>
-        <text id="court_result_text_2" need_translate="true" value=""/>
-        <text id="court_result_text_3" need_translate="true" value=""/>
         <text id="hide_evidence_popup_1" need_translate="true" value=""/>
         <text id="hide_evidence_popup_1_hover" need_translate="true" value=""/>
         <text id="hide_evidence_popup_2" need_translate="true" value=""/>
@@ -39,37 +29,11 @@
         <text id="hide_evidence_popup_3_hover" need_translate="true" value=""/>
         <text id="hide_evidence_popup_header" need_translate="true" value=""/>
         <text id="hide_evidence_popup_text" need_translate="true" value=""/>
-        <text id="hide_evidence_result_header_1" need_translate="true" value=""/>
-        <text id="hide_evidence_result_header_2" need_translate="true" value=""/>
-        <text id="hide_evidence_result_header_3" need_translate="true" value=""/>
-        <text id="hide_evidence_result_text_1" need_translate="true" value=""/>
-        <text id="hide_evidence_result_text_2" need_translate="true" value=""/>
-        <text id="hide_evidence_result_text_3" need_translate="true" value=""/>
-        <text id="incriminate_a_case_popup_1" need_translate="true" value=""/>
-        <text id="incriminate_a_case_popup_1_hover" need_translate="true" value=""/>
-        <text id="incriminate_a_case_popup_2" need_translate="true" value=""/>
-        <text id="incriminate_a_case_popup_2_hover" need_translate="true" value=""/>
-        <text id="incriminate_a_case_popup_header" need_translate="true" value=""/>
-        <text id="incriminate_a_case_popup_text" need_translate="true" value=""/>
-        <text id="incriminate_a_case_result_header_1" need_translate="true" value=""/>
-        <text id="incriminate_a_case_result_header_2" need_translate="true" value=""/>
-        <text id="incriminate_a_case_result_header_3" need_translate="true" value=""/>
-        <text id="incriminate_a_case_result_text_1" need_translate="true" value=""/>
-        <text id="incriminate_a_case_result_text_2" need_translate="true" value=""/>
-        <text id="incriminate_a_case_result_text_3" need_translate="true" value=""/>
         <text id="jail_popup_1" need_translate="true" value=""/>
         <text id="jail_popup_1_hover" need_translate="true" value=""/>
         <text id="jail_popup_2" need_translate="true" value=""/>
         <text id="jail_popup_2_hover" need_translate="true" value=""/>
         <text id="jail_popup_header" need_translate="true" value=""/>
         <text id="jail_popup_text" need_translate="true" value=""/>
-        <text id="jail_result_header" need_translate="true" value=""/>
-        <text id="jail_result_header_1" need_translate="true" value=""/>
-        <text id="jail_result_header_2" need_translate="true" value=""/>
-        <text id="jail_result_text" need_translate="true" value=""/>
-        <text id="jail_result_text_1" need_translate="true" value=""/>
-        <text id="jail_result_text_2" need_translate="true" value=""/>
-        <text id="scapegoat_popup_header" need_translate="true" value=""/>
-        <text id="scapegoat_popup_text" need_translate="true" value=""/>
     </popup>
 </crimes>

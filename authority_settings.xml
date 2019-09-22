@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<authority_settings>
+    <agressive_saying/>
+    <capitol_14/>
+    <capitol_34/>
+    <capitol_43/>
+    <careful_saying/>
+    <legislature_1/>
+    <legislature_14/>
+    <legislature_34/>
+    <legislature_43/>
+    <max_bribe/>
+    <max_promises/>
+    <min_bribe/>
+    <min_promises/>
+    <no_bribe/>
+    <no_promises/>
+    <respective_saying/>
+    <sayings/>
+    <strategy/>
+</authority_settings>
