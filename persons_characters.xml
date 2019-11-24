@@ -140,71 +140,39 @@
         <text id="trasher" need_translate="true" value=""/>
         <text id="treasurer" need_translate="true" value=""/>
     </coins_names>
-    <description_player>
-        <text id="aggressive" need_translate="true" value=""/>
-        <text id="alcoholic" need_translate="true" value=""/>
-        <text id="arrogant" need_translate="true" value=""/>
-        <text id="brawler" need_translate="true" value=""/>
-        <text id="careful" need_translate="true" value=""/>
-        <text id="careless" need_translate="true" value=""/>
-        <text id="compliant" need_translate="true" value=""/>
-        <text id="dark_past" need_translate="true" value=""/>
-        <text id="dependent" need_translate="true" value=""/>
-        <text id="explosive" need_translate="true" value=""/>
-        <text id="fearless" need_translate="true" value=""/>
-        <text id="fool" need_translate="true" value=""/>
-        <text id="friendly" need_translate="true" value=""/>
-        <text id="frigid" need_translate="true" value=""/>
-        <text id="heavy" need_translate="true" value=""/>
-        <text id="holyman" need_translate="true" value=""/>
-        <text id="illegible" need_translate="true" value=""/>
-        <text id="independent" need_translate="true" value=""/>
-        <text id="light" need_translate="true" value=""/>
-        <text id="lustful" need_translate="true" value=""/>
-        <text id="mercantile" need_translate="true" value=""/>
-        <text id="restrained" need_translate="true" value=""/>
-        <text id="selective" need_translate="true" value=""/>
-        <text id="shy" need_translate="true" value=""/>
-        <text id="spender" need_translate="true" value=""/>
-        <text id="thrifty" need_translate="true" value=""/>
-        <text id="trader" need_translate="true" value=""/>
-        <text id="wasteful" need_translate="true" value=""/>
-    </description_player>
     <descriptions>
         <text id="aggressive" need_translate="true" value=""/>
         <text id="alco_tobacco" need_translate="true" value=""/>
         <text id="alcoholic" need_translate="true" value=""/>
         <text id="antiques" need_translate="true" value=""/>
-        <text id="arrogant" need_translate="true" value=""/>
+        <text id="atheist" need_translate="true" value=""/>
+        <text id="believer" need_translate="true" value=""/>
         <text id="brawler" need_translate="true" value=""/>
         <text id="careful" need_translate="true" value=""/>
         <text id="careless" need_translate="true" value=""/>
         <text id="cars" need_translate="true" value=""/>
         <text id="coins" need_translate="true" value=""/>
-        <text id="compliant" need_translate="true" value=""/>
+        <text id="crazy" need_translate="true" value=""/>
         <text id="dark_past" need_translate="true" value=""/>
         <text id="dependent" need_translate="true" value=""/>
-        <text id="explosive" need_translate="true" value=""/>
         <text id="fearless" need_translate="true" value=""/>
-        <text id="fool" need_translate="true" value=""/>
         <text id="friendly" need_translate="true" value=""/>
         <text id="frigid" need_translate="true" value=""/>
+        <text id="fussy" need_translate="true" value=""/>
         <text id="heavy" need_translate="true" value=""/>
         <text id="holyman" need_translate="true" value=""/>
+        <text id="honest" need_translate="true" value=""/>
         <text id="horses" need_translate="true" value=""/>
         <text id="houses" need_translate="true" value=""/>
-        <text id="illegible" need_translate="true" value=""/>
         <text id="independent" need_translate="true" value=""/>
-        <text id="light" need_translate="true" value=""/>
         <text id="lustful" need_translate="true" value=""/>
         <text id="mercantile" need_translate="true" value=""/>
         <text id="pictures" need_translate="true" value=""/>
+        <text id="proud" need_translate="true" value=""/>
         <text id="restrained" need_translate="true" value=""/>
-        <text id="selective" need_translate="true" value=""/>
         <text id="shy" need_translate="true" value=""/>
         <text id="spender" need_translate="true" value=""/>
         <text id="thrifty" need_translate="true" value=""/>
-        <text id="trader" need_translate="true" value=""/>
         <text id="trophies" need_translate="true" value=""/>
         <text id="unknown" need_translate="true" value=""/>
         <text id="wasteful" need_translate="true" value=""/>
@@ -216,36 +184,34 @@
         <text id="alco_tobacco" need_translate="true" value=""/>
         <text id="alcoholic" need_translate="true" value=""/>
         <text id="antiques" need_translate="true" value=""/>
-        <text id="arrogant" need_translate="true" value=""/>
+        <text id="atheist" need_translate="true" value=""/>
+        <text id="believer" need_translate="true" value=""/>
         <text id="brawler" need_translate="true" value=""/>
         <text id="careful" need_translate="true" value=""/>
         <text id="careless" need_translate="true" value=""/>
         <text id="cars" need_translate="true" value=""/>
         <text id="coins" need_translate="true" value=""/>
-        <text id="compliant" need_translate="true" value=""/>
+        <text id="crazy" need_translate="true" value=""/>
         <text id="dark_past" need_translate="true" value=""/>
         <text id="dependent" need_translate="true" value=""/>
-        <text id="explosive" need_translate="true" value=""/>
         <text id="fearless" need_translate="true" value=""/>
-        <text id="fool" need_translate="true" value=""/>
         <text id="friendly" need_translate="true" value=""/>
         <text id="frigid" need_translate="true" value=""/>
+        <text id="fussy" need_translate="true" value=""/>
         <text id="heavy" need_translate="true" value=""/>
         <text id="holyman" need_translate="true" value=""/>
+        <text id="honest" need_translate="true" value=""/>
         <text id="horses" need_translate="true" value=""/>
         <text id="houses" need_translate="true" value=""/>
-        <text id="illegible" need_translate="true" value=""/>
         <text id="independent" need_translate="true" value=""/>
-        <text id="light" need_translate="true" value=""/>
         <text id="lustful" need_translate="true" value=""/>
         <text id="mercantile" need_translate="true" value=""/>
         <text id="pictures" need_translate="true" value=""/>
+        <text id="proud" need_translate="true" value=""/>
         <text id="restrained" need_translate="true" value=""/>
-        <text id="selective" need_translate="true" value=""/>
         <text id="shy" need_translate="true" value=""/>
         <text id="spender" need_translate="true" value=""/>
         <text id="thrifty" need_translate="true" value=""/>
-        <text id="trader" need_translate="true" value=""/>
         <text id="trophies" need_translate="true" value=""/>
         <text id="wasteful" need_translate="true" value=""/>
         <text id="weapons" need_translate="true" value=""/>
