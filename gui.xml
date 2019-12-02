@@ -548,6 +548,7 @@
         <text id="decide" need_translate="true" value=""/>
         <text id="decline" need_translate="true" value=""/>
         <text id="effects" need_translate="true" value=""/>
+        <text id="exit_button" need_translate="true" value=""/>
         <text id="negative_result_accident" need_translate="true" value=""/>
         <text id="negative_result_strike" need_translate="true" value=""/>
         <text id="ok_button" need_translate="true" value=""/>
@@ -726,6 +727,8 @@
             <text id="title_8" need_translate="true" value=""/>
             <text id="title_9" need_translate="true" value=""/>
         </cards>
+        <text id="change" need_translate="true" value=""/>
+        <text id="change_text" need_translate="true" value=""/>
         <text id="company_statistics_blocked" need_translate="true" value=""/>
         <text id="company_statistics_blocked_title" need_translate="true" value=""/>
         <text id="director" need_translate="true" value=""/>
@@ -955,6 +958,7 @@
             <text id="ok_button" need_translate="true" value=""/>
             <text id="reserves_changes" need_translate="true" value=""/>
             <text id="workplaces" need_translate="true" value=""/>
+            <text id="workplaces_header" need_translate="true" value=""/>
         </change_workplaces_popup>
         <text id="debts" need_translate="true" value=""/>
         <text id="dividends" need_translate="true" value=""/>
@@ -1793,6 +1797,9 @@
             <text id="syracuse" need_translate="true" value=""/>
             <text id="watertown" need_translate="true" value=""/>
         </cities>
+        <text id="ga_desc" need_translate="true" value=""/>
+        <text id="ga_motto" need_translate="true" value=""/>
+        <text id="ga_nickname" need_translate="true" value=""/>
         <text id="il_desc" need_translate="true" value=""/>
         <text id="il_motto" need_translate="true" value=""/>
         <text id="il_nickname" need_translate="true" value=""/>
@@ -2494,6 +2501,10 @@
         <text id="diplomacy" need_translate="true" value=""/>
         <text id="economics" need_translate="true" value=""/>
         <text id="hint" need_translate="true" value=""/>
+        <text id="hint_2" need_translate="true" value=""/>
+        <text id="hint_2_diplomacy" need_translate="true" value=""/>
+        <text id="hint_2_economics" need_translate="true" value=""/>
+        <text id="hint_2_politics" need_translate="true" value=""/>
         <text id="level_1" need_translate="true" value=""/>
         <text id="level_2" need_translate="true" value=""/>
         <text id="level_3" need_translate="true" value=""/>
@@ -2869,17 +2880,16 @@
         <text id="ambition" need_translate="true" value=""/>
         <text id="assets" need_translate="true" value=""/>
         <text id="characteristics" need_translate="true" value=""/>
+        <text id="filter_all_ambitions" need_translate="true" value=""/>
         <text id="filter_all_persons" need_translate="true" value=""/>
         <text id="filter_all_states" need_translate="true" value=""/>
         <text id="filter_bot" need_translate="true" value=""/>
         <text id="filter_director" need_translate="true" value=""/>
-        <text id="filter_illinois" need_translate="true" value=""/>
-        <text id="filter_new_york" need_translate="true" value=""/>
         <text id="filter_official" need_translate="true" value=""/>
         <text id="filter_player" need_translate="true" value=""/>
         <text id="filter_politician" need_translate="true" value=""/>
+        <text id="filter_possible_ambitions" need_translate="true" value=""/>
         <text id="filter_shareholder" need_translate="true" value=""/>
-        <text id="filter_texas" need_translate="true" value=""/>
         <text id="name" need_translate="true" value=""/>
         <text id="profit" need_translate="true" value=""/>
         <text id="reputation" need_translate="true" value=""/>

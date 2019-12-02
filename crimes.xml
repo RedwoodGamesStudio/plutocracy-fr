@@ -33,6 +33,7 @@
     </hints>
     <other>
         <text id="accept_law" need_translate="false" value="Ratifier"/>
+        <text id="applies_to_yourself" need_translate="true" value=""/>
         <text id="btn_ok" need_translate="false" value="Ok"/>
         <text id="chance_requirements" need_translate="false" value="Chance: %1"/>
         <text id="corrupted_earlier" need_translate="false" value="Le fonctionnaire a déjà eu ce cas! Vous ne pourrez l'utiliser qu'à partir de {date}."/>
