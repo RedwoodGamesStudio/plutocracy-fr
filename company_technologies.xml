@@ -1,51 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <company_technologies>
     <technology_0>
-        <text id="description" need_translate="true" value=""/>
-        <text id="name" need_translate="true" value=""/>
+        <text id="description" need_translate="false" value="En développement"/>
+        <text id="name" need_translate="false" value="Programmes sociaux"/>
     </technology_0>
     <technology_10>
-        <text id="description" need_translate="true" value=""/>
-        <text id="name" need_translate="true" value=""/>
+        <text id="description" need_translate="false" value="En développement"/>
+        <text id="name" need_translate="false" value="Maintenance"/>
     </technology_10>
     <technology_1>
-        <text id="description" need_translate="true" value=""/>
-        <text id="name" need_translate="true" value=""/>
+        <text id="description" need_translate="false" value="La motivation des ouvriers affecte leur productivité."/>
+        <text id="name" need_translate="false" value="Motivation"/>
     </technology_1>
     <technology_11>
-        <text id="description" need_translate="true" value=""/>
-        <text id="name" need_translate="true" value=""/>
+        <text id="description" need_translate="false" value="En développement"/>
+        <text id="name" need_translate="false" value="Automatisation"/>
     </technology_11>
     <technology_2>
-        <text id="description" need_translate="true" value=""/>
-        <text id="name" need_translate="true" value=""/>
+        <text id="description" need_translate="false" value="Les conditions de travail difficiles affectent la productivité et en général conduit à la grève."/>
+        <text id="name" need_translate="false" value="Conditions de travail"/>
     </technology_2>
     <technology_3>
-        <text id="description" need_translate="true" value=""/>
-        <text id="name" need_translate="true" value=""/>
+        <text id="description" need_translate="false" value="Le respect des règles de sécurité au travail abaisse le taux d'accidents."/>
+        <text id="name" need_translate="false" value="Sécurité"/>
     </technology_3>
     <technology_4>
-        <text id="description" need_translate="true" value=""/>
-        <text id="name" need_translate="true" value=""/>
+        <text id="description" need_translate="false" value="Un client cherche toujours le meilleur rapport qualité/prix - plus elle est élevée, plus le produit sera cher."/>
+        <text id="name" need_translate="false" value="Qualité"/>
     </technology_4>
     <technology_5>
-        <text id="description" need_translate="true" value=""/>
-        <text id="name" need_translate="true" value=""/>
+        <text id="description" need_translate="false" value="Un achalandage négatif conduit toujours à faire chuter les actions de l'entreprise."/>
+        <text id="name" need_translate="false" value="Achalandage"/>
     </technology_5>
     <technology_6>
-        <text id="description" need_translate="true" value=""/>
-        <text id="name" need_translate="true" value=""/>
+        <text id="description" need_translate="false" value="Un processus de recrutement efficace peut aider à engager des ouvriers pour un salaire plus faible."/>
+        <text id="name" need_translate="false" value="Recrutement"/>
     </technology_6>
     <technology_7>
-        <text id="description" need_translate="true" value=""/>
-        <text id="name" need_translate="true" value=""/>
+        <text id="description" need_translate="false" value="Meilleure est la logistique, plus grand est le besoin pour ces services."/>
+        <text id="name" need_translate="false" value="Logistique"/>
     </technology_7>
     <technology_8>
-        <text id="description" need_translate="true" value=""/>
-        <text id="name" need_translate="true" value=""/>
+        <text id="description" need_translate="false" value="Cela accroît la taille maximum de l'émission d'actions et d'obligations et réduit également le taux sur les obligations, les rendant ainsi plus profitables pour l'entreprise."/>
+        <text id="name" need_translate="false" value="Attraction de l'investissement"/>
     </technology_8>
     <technology_9>
-        <text id="description" need_translate="true" value=""/>
-        <text id="name" need_translate="true" value=""/>
+        <text id="description" need_translate="false" value="Meilleur est le raffinage, le moins vous avez besoin d'acheter de matériaux bruts pour les transformer en produits finis."/>
+        <text id="name" need_translate="false" value="Qualité du raffinage"/>
     </technology_9>
 </company_technologies>

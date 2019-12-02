@@ -1656,14 +1656,14 @@
         <text id="you_miss_step" need_translate="true" value=""/>
     </main_events_sequence>
     <main_menu>
-        <text id="advancement" need_translate="true" value=""/>
-        <text id="campaign" need_translate="true" value=""/>
-        <text id="config" need_translate="true" value=""/>
-        <text id="developers" need_translate="true" value=""/>
-        <text id="exit" need_translate="true" value=""/>
-        <text id="load" need_translate="true" value=""/>
-        <text id="network_game" need_translate="true" value=""/>
-        <text id="sandbox" need_translate="true" value=""/>
+        <text id="advancement" need_translate="false" value="Achievements"/>
+        <text id="campaign" need_translate="false" value="Campagne"/>
+        <text id="config" need_translate="false" value="Options"/>
+        <text id="developers" need_translate="false" value="Développeurs"/>
+        <text id="exit" need_translate="false" value="Quitter"/>
+        <text id="load" need_translate="false" value="Charger"/>
+        <text id="network_game" need_translate="false" value="Multijoueur"/>
+        <text id="sandbox" need_translate="false" value="Bac à sable"/>
     </main_menu>
     <manipulation_popup>
         <text id="header" need_translate="true" value=""/>

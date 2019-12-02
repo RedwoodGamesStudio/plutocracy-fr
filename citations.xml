@@ -1,93 +1,93 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <citations>
     <citations>
-        <text id="1_1" need_translate="true" value=""/>
-        <text id="1_2" need_translate="true" value=""/>
-        <text id="1_3" need_translate="true" value=""/>
-        <text id="1_4" need_translate="true" value=""/>
-        <text id="1_5" need_translate="true" value=""/>
-        <text id="1_6" need_translate="true" value=""/>
-        <text id="1_7" need_translate="true" value=""/>
-        <text id="1_8" need_translate="true" value=""/>
-        <text id="2_1" need_translate="true" value=""/>
-        <text id="2_10" need_translate="true" value=""/>
-        <text id="2_2" need_translate="true" value=""/>
-        <text id="2_3" need_translate="true" value=""/>
-        <text id="2_4" need_translate="true" value=""/>
-        <text id="2_6" need_translate="true" value=""/>
-        <text id="2_7" need_translate="true" value=""/>
-        <text id="2_8" need_translate="true" value=""/>
-        <text id="2_9" need_translate="true" value=""/>
-        <text id="3_1" need_translate="true" value=""/>
-        <text id="3_2" need_translate="true" value=""/>
-        <text id="3_3" need_translate="true" value=""/>
-        <text id="3_4" need_translate="true" value=""/>
-        <text id="3_5" need_translate="true" value=""/>
-        <text id="3_6" need_translate="true" value=""/>
-        <text id="3_7" need_translate="true" value=""/>
-        <text id="3_8" need_translate="true" value=""/>
-        <text id="4_1" need_translate="true" value=""/>
-        <text id="4_10" need_translate="true" value=""/>
-        <text id="4_11" need_translate="true" value=""/>
-        <text id="4_12" need_translate="true" value=""/>
-        <text id="4_2" need_translate="true" value=""/>
-        <text id="4_3" need_translate="true" value=""/>
-        <text id="4_4" need_translate="true" value=""/>
-        <text id="4_5" need_translate="true" value=""/>
-        <text id="4_6" need_translate="true" value=""/>
-        <text id="4_7" need_translate="true" value=""/>
-        <text id="4_8" need_translate="true" value=""/>
-        <text id="4_9" need_translate="true" value=""/>
-        <text id="5_1" need_translate="true" value=""/>
-        <text id="5_10" need_translate="true" value=""/>
-        <text id="5_2" need_translate="true" value=""/>
-        <text id="5_3" need_translate="true" value=""/>
-        <text id="5_4" need_translate="true" value=""/>
-        <text id="5_5" need_translate="true" value=""/>
-        <text id="5_6" need_translate="true" value=""/>
-        <text id="5_7" need_translate="true" value=""/>
-        <text id="5_8" need_translate="true" value=""/>
-        <text id="5_9" need_translate="true" value=""/>
-        <text id="8_1" need_translate="true" value=""/>
-        <text id="8_2" need_translate="true" value=""/>
-        <text id="8_3" need_translate="true" value=""/>
-        <text id="8_4" need_translate="true" value=""/>
-        <text id="8_5" need_translate="true" value=""/>
-        <text id="8_6" need_translate="true" value=""/>
-        <text id="8_7" need_translate="true" value=""/>
-        <text id="8_8" need_translate="true" value=""/>
-        <text id="8_9" need_translate="true" value=""/>
+        <text id="1_1" need_translate="false" value="Quand je fais du bien, je me sens bien. Quand je fais du mal, je me sens mal. C'est cela ma religion."/>
+        <text id="1_2" need_translate="false" value="Hyppocrite: L'homme qui a assassiné ses deux parents et ensuite clamé être orphelin."/>
+        <text id="1_3" need_translate="false" value="Vous pouvez dûper tout le monde par moments et quelques personnes tout le temps mais pas tout le monde tout le temps."/>
+        <text id="1_4" need_translate="false" value="Le loup et le mouton ne sont pas d'accord sur le sens du mot liberté et précisemment la même différence prévaut aujourd'hui parmis les hommes./>
+        <text id="1_5" need_translate="false" value="Le caractère est comme un arbre et la réputation comme une ombre."/>
+        <text id="1_6" need_translate="false" value="Presque tout les hommes peuvent soutenir l'adversité, mais si vous voulez connaître le tempérament d'un homme, donnez lui du pouvoir!"/>
+        <text id="1_7" need_translate="false" value="Vous ne pouvez pas échouer si vous avez résoluement déterminé que vous n'échouerez pas."/>
+        <text id="1_8" need_translate="false" value="Je détruis mes ennemis lorsque j'en fais mes amis."/>
+        <text id="2_1" need_translate="false" value="La qualité signigie faire les choses correctement, même lorsque personne ne regarde."/>
+        <text id="2_10" need_translate="false" value="Penser est le travail le plus difficile qu'il soit, ce qui est probablement la raison pour laquelle si peu s'engagent à le faire."/>
+        <text id="2_2" need_translate="false" value="Heureusement que le peuple de la nation ne comprends pas notre système bancaire et monétaire parce que si c'était le cas, je crois qu'il y aurai une révolution avant demain matin."/>
+        <text id="2_3" need_translate="false" value="Ce n'est pas l'employeur que paie les salaires. L'employeur manipule seulement l'argent. C'est le client qui paie les salaires."/>
+        <text id="2_4" need_translate="false" value="L'atmosphère est emplie d'idées. Elles vous frappent en pleine tête constamment. Vous devez seulement savoir ce que vous désirez, puis l'oublier et retourner à vos affaires. Soudainement, l'idée ressurgira. Elle était là tout ce temps. "/>
+        <text id="2_6" need_translate="false" value="Les plus âgés conseillent toujours aux plus jeunes d'économiser. C'est un mauvais conseil. N'économisez pas chaque centime. Investissez sur vous même! Je n'ai jamais économisé un dollar jusqu'à l'âge de quarante ans."/>
+        <text id="2_7" need_translate="false" value="Lorsque tout semble être contre vous, souvenez-vous que l'avion décolle en prenant le vent de face."/>
+        <text id="2_8" need_translate="false" value="L'échec est simplement l'opportunité de recommencer encore, mais cette fois plus intelligemment."/>
+        <text id="2_9" need_translate="false" value="Un business qui ne fait rien d'autre que de l'argent est un business médiocre."/>
+        <text id="3_1" need_translate="false" value="Je ne pense pas qu'il y ait d'autre qualité plus essentielle à n'importe quelle sorte de réussite que la persévérence. Elle surpasse presque tout, même la nature."/>
+        <text id="3_2" need_translate="false" value="N'ayez pas peur des grosses dépenses mais plutôt d'un petit revenu."/>
+        <text id="3_3" need_translate="false" value="Je préfèrerais gagner 1% des efforts de 100 personnes que 100% de mes propres efforts."/>
+        <text id="3_4" need_translate="false" value="Je préfèrerais engager un homme avec de l'enthousiasme qu'un homme qui sait tout."/>
+        <text id="3_5" need_translate="false" value="Je peux vous parler de chaque million que j'ai gagné excepté le premier."/>
+        <text id="3_6" need_translate="false" value="Une personne qui travaille toute la journée n'a pas de temps pour faire de l'argent."/>
+        <text id="3_7" need_translate="false" value="La capacité à interagir avec les gens est un bien qui s'achète comme le sucre ou le café et je paierais plus pour cette capacité que n'importe quoi d'autre."/>
+        <text id="3_8" need_translate="false" value="J'ai toujours essayé de transformer chaque désastre en opportunité."/>
+        <text id="4_1" need_translate="false" value="Il est plus facile de tromper les gens que de les convaincre qu'ils ont été trompés."/>
+        <text id="4_10" need_translate="false" value="Si les élections dépendaient de quoi que ce soit, alors nous ne serions pas autorisés à y participer."/>
+        <text id="4_11" need_translate="false" value="Je suis opposé aux millionaires, mais il serait dangereux de m'offrir la position."/>
+        <text id="4_12" need_translate="false" value="L'honnêteté est la meilleure conduite - lorsqu'il y a de l'argent en jeu."/>
+        <text id="4_2" need_translate="false" value="Ne permettez jamais à quiconque d'être votre priorité alors que dans le même temps vous lui permettez de n'être pour lui qu'une option."/>
+        <text id="4_3" need_translate="false" value="La vérité devrait être présentée comme un manteau, pas jettée au visage comme une serviette mouillée."/>
+        <text id="4_4" need_translate="false" value="Un banquier est un quelqu'un qui vous prête son parapluie lorsque le soleil brille mais veut le récupérèr dès qu'il commence à pleuvoir."/>
+        <text id="4_5" need_translate="false" value="L'humain est le seul animal qui aime son voisin comme lui-même et lui tranche la gorge si sa religion n'est pas la bonne."/>
+        <text id="4_6" need_translate="false" value="Tout les partis politiques meurent finalement d'ingurgiter leurs propres mensonges."/>
+        <text id="4_7" need_translate="false" value="Soyons reconnaissants des imbéciles. Sans eux nous ne pourrions réussir."/>
+        <text id="4_8" need_translate="false" value="Gardez-vous des gens qui essaient de minimiser vos ambitions. Les gens insignifiants font toujours cela, mais les illustres vous le font ressentir que, vous aussi, pouvez devenir illustre."/>
+        <text id="4_9" need_translate="false" value="Un mensonge peut faire la moitié du tour du monde pensant que la vérité est toujours en train de mettre ses chaussures."/>
+        <text id="5_1" need_translate="false" value="S'il n'y a pas de guerre vous n'aurez pas de grand général; s'il n'y a pas de grande occasion vous n'aurez pas de grand chef d'Etat; si Lincoln avait vécu en temps de paix, peronne ne se souviendrait de son nom."/>
+        <text id="5_10" need_translate="false" value="Il n'y a encore jamais eu d'homme dans notre histoire qui ait mené une vie d'aisance dont le nom vaux la peine d'être rappelé."/>
+        <text id="5_2" need_translate="false" value="Soyez actif! Saisissez l'instant! L'homme n'as jamais eu vocation à devenir une huître."/>
+        <text id="5_3" need_translate="false" value="Le politicien ayant le plus de succès est celui qui dit ce que les gens pensent, le plus souvent avec la voix la plus forte. "/>
+        <text id="5_4" need_translate="false" value="Un homme qui n'a jamais été à l'école peut voler d'un wagon de marchandises, mais s'il a une éducation universitaire il peut voler tout le réseau ferré."/>
+        <text id="5_5" need_translate="false" value="En politique, vous devez faire beaucoup de choses qui ne devraient pas être faîtes."/>
+        <text id="5_6" need_translate="false" value="Si une personne vit et travaille honnêtement de sorte à ce que ceux qui dépendent de lui et qui lui sont chers vivent mieux parce qu'il existe en ce monde alors nous pouvons dire qu'une telle personne a réussi dans la vie."/>
+        <text id="5_7" need_translate="false" value="Le plus important ingrédient dans la recette du succès est de savoir comment s'entendre avec les gens."/>
+        <text id="5_8" need_translate="false" value="Il serait meilleur que les hommes d'affaires conduisent leurs affaires honnêtement que de donner les profits excedants aux oeuvres de charité."/>
+        <text id="5_9" need_translate="false" value="Je pense qu'il n'y a qu'une seule qualité qui soit pire que la dureté du coeur et c'est la molesse de l'esprit."/>
+        <text id="8_1" need_translate="false" value="Vous pouvez me prendre toutes mes usines, mes capitaux et tout ce que je possède. Mais laissez moi cinq de mes meilleurs managers et vous n'aurez pas le temps de vous réveiller que je serais à nouveau en tête de tout le monde."/>
+        <text id="8_2" need_translate="false" value="Le surplus de richesses est un dépôt sacré que son possesseur se doit d'administrer lors de sa vie pour le bien de la communauté."/>
+        <text id="8_3" need_translate="false" value="L'homme ne doit pas avoir d'idole et l'accumulation de richesses est une des pires espèces d'idôlatrie! Aucune idole n'est plus avilissante que le culte de l'argent."/>
+        <text id="8_4" need_translate="false" value="Ici repose quelqu'un qui savait comment rassembler autour de lui des hommes qui étaient plus intelligents que lui-même"/>
+        <text id="8_5" need_translate="false" value="Aucun talent ni aucune opportunité n'a d'importance si une personne est fortunée."/>
+        <text id="8_6" need_translate="false" value="Vous vous attendez à remuer des tonnes de terre pour trouver une once d'or, mais vous ne descendez pas dans la mine pour chercher de la terre - vous y allez pour chercher de l'or."/>
+        <text id="8_7" need_translate="false" value="Si je continue à me dévouer entièrement aux enjeux des affaires, me concentrant sur le fait de faire de l'argent alors je deviendrais un dégénéré sans espoir proche de résurrection."/>
+        <text id="8_8" need_translate="false" value="Rappelez-vous cette importante règle: les dépenses doivent toujours se situer dans les limites des revenus."/>
+        <text id="8_9" need_translate="false" value="Le devoir des gens riches est de montrer l'exemple concernant la modestie et pas d'être arrogants."/>
     </citations>
     <person_1>
-        <text id="name" need_translate="true" value=""/>
-        <text id="surname" need_translate="true" value=""/>
+        <text id="name" need_translate="false" value="Abraham"/>
+        <text id="surname" need_translate="false" value="Lincoln"/>
     </person_1>
     <person_2>
-        <text id="name" need_translate="true" value=""/>
-        <text id="surname" need_translate="true" value=""/>
+        <text id="name" need_translate="false" value="Henry"/>
+        <text id="surname" need_translate="false" value="Ford"/>
     </person_2>
     <person_3>
-        <text id="name" need_translate="true" value=""/>
-        <text id="surname" need_translate="true" value=""/>
+        <text id="name" need_translate="false" value="John"/>
+        <text id="surname" need_translate="false" value="Rockefeller"/>
     </person_3>
     <person_4>
-        <text id="name" need_translate="true" value=""/>
-        <text id="surname" need_translate="true" value=""/>
+        <text id="name" need_translate="false" value="Mark"/>
+        <text id="surname" need_translate="false" value="Twain"/>
     </person_4>
     <person_5>
-        <text id="name" need_translate="true" value=""/>
-        <text id="surname" need_translate="true" value=""/>
+        <text id="name" need_translate="false" value="Theodore"/>
+        <text id="surname" need_translate="false" value="Roosevelt"/>
     </person_5>
     <person_6>
-        <text id="name" need_translate="true" value=""/>
-        <text id="surname" need_translate="true" value=""/>
+        <text id="name" need_translate="false" value="Winston"/>
+        <text id="surname" need_translate="false" value="Churchill"/>
     </person_6>
     <person_7>
-        <text id="name" need_translate="true" value=""/>
-        <text id="surname" need_translate="true" value=""/>
+        <text id="name" need_translate="false" value="Fidel"/>
+        <text id="surname" need_translate="false" value="Castro"/>
     </person_7>
     <person_8>
-        <text id="name" need_translate="true" value=""/>
-        <text id="surname" need_translate="true" value=""/>
+        <text id="name" need_translate="false" value="Andrew"/>
+        <text id="surname" need_translate="false" value="Carnegie"/>
     </person_8>
 </citations>

@@ -1,172 +1,172 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <crimes>
     <crime_type>
-        <text id="burn" need_translate="true" value=""/>
-        <text id="corruption" need_translate="true" value=""/>
-        <text id="extortion" need_translate="true" value=""/>
-        <text id="manipulation" need_translate="true" value=""/>
-        <text id="murder" need_translate="true" value=""/>
-        <text id="negligence" need_translate="true" value=""/>
-        <text id="persecution" need_translate="true" value=""/>
-        <text id="robbery" need_translate="true" value=""/>
-        <text id="slander" need_translate="true" value=""/>
+        <text id="burn" need_translate="false" value="Incendie volontaire"/>
+        <text id="corruption" need_translate="false" value="Corruption"/>
+        <text id="extortion" need_translate="false" value="Extortion"/>
+        <text id="manipulation" need_translate="false" value="Manipulation"/>
+        <text id="murder" need_translate="false" value="Homicide"/>
+        <text id="negligence" need_translate="false" value="Negligeance"/>
+        <text id="persecution" need_translate="false" value="Persecution"/>
+        <text id="robbery" need_translate="false" value="Braquage"/>
+        <text id="slander" need_translate="false" value="Diffamation"/>
     </crime_type>
     <effects>
-        <text id="arrets_chance" need_translate="true" value=""/>
-        <text id="jail_time_text" need_translate="true" value=""/>
-        <text id="jail_time_value" need_translate="true" value=""/>
-        <text id="money_penalty" need_translate="true" value=""/>
-        <text id="reputation_change" need_translate="true" value=""/>
+        <text id="arrets_chance" need_translate="false" value="Chances d'arrestation"/>
+        <text id="jail_time_text" need_translate="false" value="Peine d'emprisonnement"/>
+        <text id="jail_time_value" need_translate="false" value="%1 trimestres"/>
+        <text id="money_penalty" need_translate="false" value="Amende"/>
+        <text id="reputation_change" need_translate="false" value="Pénalité de réputation"/>
     </effects>
     <hints>
-        <text id="already_tried_to_corrupt" need_translate="true" value=""/>
-        <text id="corrupt_governor" need_translate="true" value=""/>
-        <text id="government_contract" need_translate="true" value=""/>
-        <text id="hint" need_translate="true" value=""/>
-        <text id="low_loyality" need_translate="true" value=""/>
-        <text id="make_a_deal" need_translate="true" value=""/>
-        <text id="no_assistants" need_translate="true" value=""/>
-        <text id="police_chief_deal" need_translate="true" value=""/>
-        <text id="prosecutor_investigation" need_translate="true" value=""/>
-        <text id="receive_a_grant" need_translate="true" value=""/>
-        <text id="treasurer_grant" need_translate="true" value=""/>
+        <text id="already_tried_to_corrupt" need_translate="false" value="Vous ne pouvez corrompre le fonctionnaire qu'une seule fois!"/>
+        <text id="corrupt_governor" need_translate="false" value="Le gouverneur est capable d'opposer son veto sur un vote ou de le ratifier si les députés n'btiennent pas %1 votes. Toutefois, cela peut détruire son influence!&lt;br&gt;Prix:&lt;br&gt;%2"/>
+        <text id="government_contract" need_translate="false" value="Si vous avez une bonne relation avec le gouverneur, vous pouvez obtenir un contrat public pour votre entreprise qui vous permettra de vendre vos biens plus cher."/>
+        <text id="hint" need_translate="false" value="&lt;br&gt;&lt;br&gt;{hint}"/>
+        <text id="low_loyality" need_translate="false" value="Loyauté faible!"/>
+        <text id="make_a_deal" need_translate="false" value="Si vous avez des preuves compromettantes sur un personnage, le procureur peut ouvrir un dossier d'accusation...&lt;br&gt;Prix:&lt;br&gt;%1"/>
+        <text id="no_assistants" need_translate="false" value="Aucun assistant engagé!"/>
+        <text id="police_chief_deal" need_translate="false" value="Le chef de la police peut falsifier des preuves pour faire du chantage et manipuler."/>
+        <text id="prosecutor_investigation" need_translate="false" value="Si le procureur est votre marionnette, vous pouvez simplement faire virer n'importe quel fonctionnaire. Commencez simplement une investigation..."/>
+        <text id="receive_a_grant" need_translate="false" value="Si vous avez une bonne relation avec le trésorier, vous pouvez obtenir une subvention allant jusqu'à 50% du coût de construction des nouveaux bâtiments dans votre entreprise.&lt;br&gt;&lt;br&gt;Prix:&lt;br&gt;%1"/>
+        <text id="treasurer_grant" need_translate="false" value="Le trésorier peut fournir des prêts à taux avantageux à un taux subventionné allant jusqu'à 90%. C'est le meilleur moyen de se développer."/>
     </hints>
     <other>
-        <text id="accept_law" need_translate="true" value=""/>
-        <text id="btn_ok" need_translate="true" value=""/>
-        <text id="chance_requirements" need_translate="true" value=""/>
-        <text id="corrupted_earlier" need_translate="true" value=""/>
-        <text id="dummy_not_possible" need_translate="true" value=""/>
-        <text id="government_contract_header" need_translate="true" value=""/>
-        <text id="government_contract_text" need_translate="true" value=""/>
-        <text id="governor_disabled" need_translate="true" value=""/>
-        <text id="governor_is_dummy" need_translate="true" value=""/>
-        <text id="governor_is_friendly" need_translate="true" value=""/>
-        <text id="honest_person" need_translate="true" value=""/>
-        <text id="incorrect_law_stage" need_translate="true" value=""/>
-        <text id="influence_requirements" need_translate="true" value=""/>
-        <text id="judge_disabled" need_translate="true" value=""/>
-        <text id="money_requirements" need_translate="true" value=""/>
-        <text id="no_authority_marks" need_translate="true" value=""/>
-        <text id="not_compromised" need_translate="true" value=""/>
-        <text id="not_enough_evidence" need_translate="true" value=""/>
-        <text id="not_enough_influence" need_translate="true" value=""/>
-        <text id="not_enough_money" need_translate="true" value=""/>
-        <text id="person_is_not_authority" need_translate="true" value=""/>
-        <text id="player_is_not_shareholder" need_translate="true" value=""/>
-        <text id="police_chief_disabled" need_translate="true" value=""/>
-        <text id="police_chief_is_dummy" need_translate="true" value=""/>
-        <text id="police_chief_is_friendly" need_translate="true" value=""/>
-        <text id="prosecutor_disabled" need_translate="true" value=""/>
-        <text id="prosecutor_is_dummy" need_translate="true" value=""/>
-        <text id="prosecutor_is_friendly" need_translate="true" value=""/>
-        <text id="reject_law" need_translate="true" value=""/>
-        <text id="reputation_requirements" need_translate="true" value=""/>
-        <text id="skill_is_not_learned" need_translate="true" value=""/>
-        <text id="treasurer_is_dummy" need_translate="true" value=""/>
-        <text id="treasurer_is_friendly" need_translate="true" value=""/>
-        <text id="two_condition" need_translate="true" value=""/>
-        <text id="veto_is_not_possible" need_translate="true" value=""/>
-        <text id="year_genetive_multiple" need_translate="true" value=""/>
-        <text id="year_genetive_single" need_translate="true" value=""/>
-        <text id="year_multiple" need_translate="true" value=""/>
-        <text id="year_single" need_translate="true" value=""/>
+        <text id="accept_law" need_translate="false" value="Ratifier"/>
+        <text id="btn_ok" need_translate="false" value="Ok"/>
+        <text id="chance_requirements" need_translate="false" value="Chance: %1"/>
+        <text id="corrupted_earlier" need_translate="false" value="Le fonctionnaire a déjà eu ce cas! Vous ne pourrez l'utiliser qu'à partir de {date}."/>
+        <text id="dummy_not_possible" need_translate="false" value="{person_name} ne sera jamais votre marionnette!"/>
+        <text id="government_contract_header" need_translate="false" value="Contrat public"/>
+        <text id="government_contract_text" need_translate="false" value="Vous ne pouvez avoir qu'un seul contrat public pour ce type d'entreprise."/>
+        <text id="governor_disabled" need_translate="false" value="Le gouverneur est malade!"/>
+        <text id="governor_is_dummy" need_translate="false" value="Gouverneur marionnette"/>
+        <text id="governor_is_friendly" need_translate="false" value="Gouverneur amical"/>
+        <text id="honest_person" need_translate="false" value="{person_name} ne peut pas être corrompu!"/>
+        <text id="incorrect_law_stage" need_translate="false" value="Le gouverneur n'a pas encore reçu le projet de loi!"/>
+        <text id="influence_requirements" need_translate="false" value="Influence: %1"/>
+        <text id="judge_disabled" need_translate="false" value="Le juge est malade!"/>
+        <text id="money_requirements" need_translate="false" value="Somme du pot-de-vin: %1"/>
+        <text id="no_authority_marks" need_translate="false" value="Le fonctionnaire n'est pas encore prêt à fournir son soutien!"/>
+        <text id="not_compromised" need_translate="false" value="Pas de preuves sur %1!"/>
+        <text id="not_enough_evidence" need_translate="false" value="Pas assez de preuves pour porter l'affaire au procureur."/>
+        <text id="not_enough_influence" need_translate="false" value="Vous n'avez pas assez d'influence! %1 requis!"/>
+        <text id="not_enough_money" need_translate="false" value="Vous n'avez pas assez d'argent!"/>
+        <text id="person_is_not_authority" need_translate="false" value="Les preuves compromettantes ne peuvent être utilisées que contre des fonctionnaires et des politiciens!"/>
+        <text id="player_is_not_shareholder" need_translate="false" value="Vous ne détenez pas d'actions de {company_name}!"/>
+        <text id="police_chief_disabled" need_translate="false" value="Le chef de la police est malade!"/>
+        <text id="police_chief_is_dummy" need_translate="false" value="Chef de la police marionnette"/>
+        <text id="police_chief_is_friendly" need_translate="false" value="Chef de la police amical"/>
+        <text id="prosecutor_disabled" need_translate="false" value="Le procureur est malade!"/>
+        <text id="prosecutor_is_dummy" need_translate="false" value="Procureur marionnette"/>
+        <text id="prosecutor_is_friendly" need_translate="false" value="Procureur amical"/>
+        <text id="reject_law" need_translate="false" value="Rejet"/>
+        <text id="reputation_requirements" need_translate="false" value="Influence: %1"/>
+        <text id="skill_is_not_learned" need_translate="false" value="Le talent {skill_name} n'a pas été atteint!"/>
+        <text id="treasurer_is_dummy" need_translate="false" value="Trésorier marionnette"/>
+        <text id="treasurer_is_friendly" need_translate="false" value="Trésorier amical"/>
+        <text id="two_condition" need_translate="false" value="L'un des deux doit être réalisé: &lt;br&gt;{first_condition}&lt;br&gt;{second_condition}"/>
+        <text id="veto_is_not_possible" need_translate="false" value="L'assemblée législative à atteint un nombre critique de votes. Malheureusement, le gouverneur n'est plus capable d'influencer quoi que ce soit!"/>
+        <text id="year_genetive_multiple" need_translate="false" value="années"/>
+        <text id="year_genetive_single" need_translate="false" value="année"/>
+        <text id="year_multiple" need_translate="false" value="années"/>
+        <text id="year_single" need_translate="false" value="année"/>
     </other>
     <popup>
-        <text id="accept_law_popup_fail_header" need_translate="true" value=""/>
-        <text id="accept_law_popup_fail_text" need_translate="true" value=""/>
-        <text id="accept_law_popup_success_header" need_translate="true" value=""/>
-        <text id="accept_law_popup_success_text" need_translate="true" value=""/>
-        <text id="break_up_strike_popup_fail_header" need_translate="true" value=""/>
-        <text id="break_up_strike_popup_fail_text" need_translate="true" value=""/>
-        <text id="break_up_strike_popup_success_header" need_translate="true" value=""/>
-        <text id="break_up_strike_popup_success_text" need_translate="true" value=""/>
-        <text id="contract_popup_fail_header" need_translate="true" value=""/>
-        <text id="contract_popup_fail_text" need_translate="true" value=""/>
-        <text id="contract_popup_success_header" need_translate="true" value=""/>
-        <text id="contract_popup_success_text" need_translate="true" value=""/>
-        <text id="court_popup_1" need_translate="true" value=""/>
-        <text id="court_popup_1_disabled_hover" need_translate="true" value=""/>
-        <text id="court_popup_1_hover" need_translate="true" value=""/>
-        <text id="court_popup_2" need_translate="true" value=""/>
-        <text id="court_popup_2_disabled_hover" need_translate="true" value=""/>
-        <text id="court_popup_2_hover" need_translate="true" value=""/>
-        <text id="court_popup_3" need_translate="true" value=""/>
-        <text id="court_popup_3_disabled_hover" need_translate="true" value=""/>
-        <text id="court_popup_3_hover" need_translate="true" value=""/>
-        <text id="court_popup_fail_header" need_translate="true" value=""/>
-        <text id="court_popup_fail_text" need_translate="true" value=""/>
-        <text id="court_popup_header" need_translate="true" value=""/>
-        <text id="court_popup_success_header" need_translate="true" value=""/>
-        <text id="court_popup_success_text" need_translate="true" value=""/>
-        <text id="court_popup_text" need_translate="true" value=""/>
-        <text id="court_popup_text_to_company" need_translate="true" value=""/>
-        <text id="freedom_popup_header" need_translate="true" value=""/>
-        <text id="freedom_popup_text" need_translate="true" value=""/>
-        <text id="grant_popup_fail_header" need_translate="true" value=""/>
-        <text id="grant_popup_fail_text" need_translate="true" value=""/>
-        <text id="grant_popup_success_header" need_translate="true" value=""/>
-        <text id="grant_popup_success_text" need_translate="true" value=""/>
-        <text id="hide_accident_popup_fail_header" need_translate="true" value=""/>
-        <text id="hide_accident_popup_fail_text" need_translate="true" value=""/>
-        <text id="hide_accident_popup_success_header" need_translate="true" value=""/>
-        <text id="hide_accident_popup_success_text" need_translate="true" value=""/>
-        <text id="hide_evidence_popup_1" need_translate="true" value=""/>
-        <text id="hide_evidence_popup_1_disabled_hover" need_translate="true" value=""/>
-        <text id="hide_evidence_popup_1_hover" need_translate="true" value=""/>
-        <text id="hide_evidence_popup_2" need_translate="true" value=""/>
-        <text id="hide_evidence_popup_2_disabled_hover" need_translate="true" value=""/>
-        <text id="hide_evidence_popup_2_hover" need_translate="true" value=""/>
-        <text id="hide_evidence_popup_3" need_translate="true" value=""/>
-        <text id="hide_evidence_popup_3_disabled_hover" need_translate="true" value=""/>
-        <text id="hide_evidence_popup_3_hover" need_translate="true" value=""/>
-        <text id="hide_evidence_popup_fail_header" need_translate="true" value=""/>
-        <text id="hide_evidence_popup_fail_text" need_translate="true" value=""/>
-        <text id="hide_evidence_popup_header" need_translate="true" value=""/>
-        <text id="hide_evidence_popup_success_header" need_translate="true" value=""/>
-        <text id="hide_evidence_popup_success_text" need_translate="true" value=""/>
-        <text id="hide_evidence_popup_text" need_translate="true" value=""/>
-        <text id="jail_popup_1" need_translate="true" value=""/>
-        <text id="jail_popup_1_disabled_hover" need_translate="true" value=""/>
-        <text id="jail_popup_1_hover" need_translate="true" value=""/>
-        <text id="jail_popup_2" need_translate="true" value=""/>
-        <text id="jail_popup_2_disabled_hover" need_translate="true" value=""/>
-        <text id="jail_popup_2_hover" need_translate="true" value=""/>
-        <text id="jail_popup_2_journalist_hover" need_translate="true" value=""/>
-        <text id="jail_popup_2_killer_hover" need_translate="true" value=""/>
-        <text id="jail_popup_fail_header" need_translate="true" value=""/>
-        <text id="jail_popup_fail_text" need_translate="true" value=""/>
-        <text id="jail_popup_header" need_translate="true" value=""/>
-        <text id="jail_popup_journalist_text" need_translate="true" value=""/>
-        <text id="jail_popup_killer_text" need_translate="true" value=""/>
-        <text id="jail_popup_success_header" need_translate="true" value=""/>
-        <text id="jail_popup_success_text" need_translate="true" value=""/>
-        <text id="jail_popup_text" need_translate="true" value=""/>
-        <text id="make_a_deal_popup_1" need_translate="true" value=""/>
-        <text id="make_a_deal_popup_1_disabled_hover" need_translate="true" value=""/>
-        <text id="make_a_deal_popup_1_hover" need_translate="true" value=""/>
-        <text id="make_a_deal_popup_2" need_translate="true" value=""/>
-        <text id="make_a_deal_popup_2_disabled_hover" need_translate="true" value=""/>
-        <text id="make_a_deal_popup_2_hover" need_translate="true" value=""/>
-        <text id="make_a_deal_popup_fail_header" need_translate="true" value=""/>
-        <text id="make_a_deal_popup_fail_text" need_translate="true" value=""/>
-        <text id="make_a_deal_popup_judge_fail_header" need_translate="true" value=""/>
-        <text id="make_a_deal_popup_judge_fail_text" need_translate="true" value=""/>
-        <text id="make_a_deal_popup_judge_success_header" need_translate="true" value=""/>
-        <text id="make_a_deal_popup_judge_success_text" need_translate="true" value=""/>
-        <text id="make_a_deal_popup_success_header" need_translate="true" value=""/>
-        <text id="make_a_deal_popup_success_text" need_translate="true" value=""/>
-        <text id="official_result_header_1" need_translate="true" value=""/>
-        <text id="official_result_header_2" need_translate="true" value=""/>
-        <text id="official_result_text_1" need_translate="true" value=""/>
-        <text id="official_result_text_2" need_translate="true" value=""/>
-        <text id="politician_result_header_1" need_translate="true" value=""/>
-        <text id="politician_result_header_2" need_translate="true" value=""/>
-        <text id="politician_result_text_1" need_translate="true" value=""/>
-        <text id="politician_result_text_2" need_translate="true" value=""/>
-        <text id="reject_law_popup_fail_header" need_translate="true" value=""/>
-        <text id="reject_law_popup_fail_text" need_translate="true" value=""/>
-        <text id="reject_law_popup_success_header" need_translate="true" value=""/>
-        <text id="reject_law_popup_success_text" need_translate="true" value=""/>
+        <text id="accept_law_popup_fail_header" need_translate="false" value="Ratification du projet de loi"/>
+        <text id="accept_law_popup_fail_text" need_translate="false" value="Le gouverneur a refusé de ratifier le projet de loi"/>
+        <text id="accept_law_popup_success_header" need_translate="false" value="Ratification du projet de loi"/>
+        <text id="accept_law_popup_success_text" need_translate="false" value="La projet de loi a été ratifié"/>
+        <text id="break_up_strike_popup_fail_header" need_translate="false" value="Répression"/>
+        <text id="break_up_strike_popup_fail_text" need_translate="false" value="Il y a eu un affrontement entre la police et les grévistes. La police a été forcée de reculer."/>
+        <text id="break_up_strike_popup_success_header" need_translate="false" value="Répression"/>
+        <text id="break_up_strike_popup_success_text" need_translate="false" value="La police a été obligée d'utiliser des dispositifs spéciaux et leurs armes à feu! Les ouvriers sont retournés à leurs postes de travail."/>
+        <text id="contract_popup_fail_header" need_translate="false" value="Contrat public"/>
+        <text id="contract_popup_fail_text" need_translate="false" value="{styles}Malheureusement, le gouverneur {governor_name} a refusé de vous aider. Sa loyauté envers vous est probablement trop faible."/>
+        <text id="contract_popup_success_header" need_translate="false" value="Contrat public"/>
+        <text id="contract_popup_success_text" need_translate="false" value="{styles}Le gouverneur {governor_name} sera ravi de vous aider à obtenir un contrat public profitable pour votre entreprise. Vos compétiteurs seront choqués!"/>
+        <text id="court_popup_1" need_translate="false" value="Procureur corrompu"/>
+        <text id="court_popup_1_disabled_hover" need_translate="false" value=""/>
+        <text id="court_popup_1_hover" need_translate="false" value="Prix:&lt;br&gt;%1"/>
+        <text id="court_popup_2" need_translate="false" value="Juge corrompu"/>
+        <text id="court_popup_2_disabled_hover" need_translate="false" value=""/>
+        <text id="court_popup_2_hover" need_translate="false" value="Prix:&lt;br&gt;%1"/>
+        <text id="court_popup_3" need_translate="false" value="Ne pas s'en soucier!"/>
+        <text id="court_popup_3_disabled_hover" need_translate="false" value=""/>
+        <text id="court_popup_3_hover" need_translate="false" value="Consequences:\n{positive_chance}%: Acquittement;\n{negative_chance}%: Jugé coupable"/>
+        <text id="court_popup_fail_header" need_translate="false" value="Procès"/>
+        <text id="court_popup_fail_text" need_translate="false" value="Un jugement de culpabilité a été prononcé par le juge! Votre influence a été ruinée..."/>
+        <text id="court_popup_header" need_translate="false" value="Procès"/>
+        <text id="court_popup_success_header" need_translate="false" value="Acquittement"/>
+        <text id="court_popup_success_text" need_translate="false" value="Un acquittement a été prononcé! Votre influence est sauve."/>
+        <text id="court_popup_text" need_translate="false" value="{styles}Le détéctive a trouvé des preuves! L'affaire a été portée devant le juge {judge_name}. Le procureur {prosecutor_name} représentera le gouvernement dans cette affaire."/>
+        <text id="court_popup_text_to_company" need_translate="false" value="{styles}Le procureur {prosecutor_name} est intéressé par un accident survenu dans l'entreprise {company_name}. L'affaire est portée devant le juge {judge_name}. Le résultat dépendra de la loyauté envers vous du juge et du procureur."/>
+        <text id="freedom_popup_header" need_translate="false" value="Liberté"/>
+        <text id="freedom_popup_text" need_translate="false" value="Enfin, je suis libre! Je devrais retourner à mes affaires."/>
+        <text id="grant_popup_fail_header" need_translate="false" value="Subvention publique"/>
+        <text id="grant_popup_fail_text" need_translate="false" value="{Styles}Malheureusement, le trésorier {treasurer_name} a refusé de vous aider à obtenir une suvention. Essayez d'augmenter sa loyauté envers vous!"/>
+        <text id="grant_popup_success_header" need_translate="false" value="Subvention publique"/>
+        <text id="grant_popup_success_text" need_translate="false" value="{styles}Le trésorier {treasurer_name} a accepté de vous aider à obtenir une subvention. En conséquence vous aurez une réduction de {discount}% pour construire vos nouveaux bâtiments."/>
+        <text id="hide_accident_popup_fail_header" need_translate="false" value="Dissimuler l'accident"/>
+        <text id="hide_accident_popup_fail_text" need_translate="false" value="Le procureur essayait de classer l'affaire mais il était trop tard."/>
+        <text id="hide_accident_popup_success_header" need_translate="false" value="Dissimuler l'accident"/>
+        <text id="hide_accident_popup_success_text" need_translate="false" value="Le procureur a utilisé tout ce qui était en son pouvoir pour éviter les vérifications concernant les conditions de travail."/>
+        <text id="hide_evidence_popup_1" need_translate="false" value="Détective corrompu"/>
+        <text id="hide_evidence_popup_1_disabled_hover" need_translate="false" value=""/>
+        <text id="hide_evidence_popup_1_hover" need_translate="false" value="Prix:&lt;br&gt;%1&lt;br&gt;&lt;br&gt;Consequences:&lt;br&gt;{positive_chance}%: Affaire classée;&lt;br&gt;{negative_chance}%: Refus du détective"/>
+        <text id="hide_evidence_popup_2" need_translate="false" value="Destruction de preuves"/>
+        <text id="hide_evidence_popup_2_disabled_hover" need_translate="false" value=""/>
+        <text id="hide_evidence_popup_2_hover" need_translate="false" value="&lt;br&gt;%1"/>
+        <text id="hide_evidence_popup_3" need_translate="false" value="Je m'en fiche"/>
+        <text id="hide_evidence_popup_3_disabled_hover" need_translate="false" value=""/>
+        <text id="hide_evidence_popup_3_hover" need_translate="false" value=""/>
+        <text id="hide_evidence_popup_fail_header" need_translate="false" value="Enquête en cours"/>
+        <text id="hide_evidence_popup_fail_text" need_translate="false" value="{styles}Le chef de la police {police_chief_name} a refusé de vous aider. Vous devriez vous faire ami avec le procureur ou le juge..."/>
+        <text id="hide_evidence_popup_header" need_translate="false" value="Enquête sur l'affaire de\n&quot;{crime_name}&quot;"/>
+        <text id="hide_evidence_popup_success_header" need_translate="false" value="Affaire classée"/>
+        <text id="hide_evidence_popup_success_text" need_translate="false" value="Le détective n'as pas été capable de trouver une quelconque preuve de votre culpabilité! Pas d'inquiétudes."/>
+        <text id="hide_evidence_popup_text" need_translate="false" value="{styles}La police a reçu une déclaration de {nickname}. Le chef de la police a commencé à regarder l'affaire. Il y a {arrest_risk}% de chances qu'il trouve des preuves et vous arrête."/>
+        <text id="jail_popup_1" need_translate="false" value="Amnistie"/>
+        <text id="jail_popup_1_disabled_hover" need_translate="false" value="Prix:&lt;br&gt;%1&lt;br&gt;&lt;br&gt;Consequences:&lt;br&gt;Amende: $ {penalty}&lt;br&gt;"/>
+        <text id="jail_popup_1_hover" need_translate="false" value="Prix:&lt;br&gt;%1&lt;br&gt;&lt;br&gt;Consequences:&lt;br&gt;Amende: $ {penalty}&lt;br&gt;{positive_chance}%:Amnistie:;&lt;br&gt;{negative_chance}%: Refus du gouverneur"/>
+        <text id="jail_popup_2" need_translate="false" value="Ne rien faire"/>
+        <text id="jail_popup_2_disabled_hover" need_translate="false" value=""/>
+        <text id="jail_popup_2_hover" need_translate="false" value="Consequences:\nAmende $ {penalty}\nEmprisonnement: {year} {year_name}"/>
+        <text id="jail_popup_2_journalist_hover" need_translate="false" value="Consequences:\nAmende $ {penalty}\nEmprisonnement: {prison_days} jour(s)"/>
+        <text id="jail_popup_2_killer_hover" need_translate="false" value="Consequences:\nAmende $ {penalty}\nEmprisonnement: {prison_days} année(s)"/>
+        <text id="jail_popup_fail_header" need_translate="false" value="Prison"/>
+        <text id="jail_popup_fail_text" need_translate="false" value="Vous n'avez pas réussi à corrompre le gouverneur! Vous aller finir en prison."/>
+        <text id="jail_popup_header" need_translate="false" value="Prison"/>
+        <text id="jail_popup_journalist_text" need_translate="false" value="Un jugement de culpabilité a été rendu par le juge! Vous allez probablement finir en prison."/>
+        <text id="jail_popup_killer_text" need_translate="false" value="Un jugement de culpabilité a été rendu par le juge! Vous allez probablement finir en prison."/>
+        <text id="jail_popup_success_header" need_translate="false" value="Amnistie"/>
+        <text id="jail_popup_success_text" need_translate="false" value="Vous avez la grâce du gouverneur. Vous êtes libre!"/>
+        <text id="jail_popup_text" need_translate="false" value="Un jugement de culpabilité à été rendu par le juge! Vous allez probablement finir en prison. Il vous est interdit de vous déplacer entre les états pour négocier! Pour finir, votre influence est réduite de -{reputation}."/>
+        <text id="make_a_deal_popup_1" need_translate="false" value="Jugé coupable"/>
+        <text id="make_a_deal_popup_1_disabled_hover" need_translate="false" value=""/>
+        <text id="make_a_deal_popup_1_hover" need_translate="false" value="Prix:&lt;br&gt;{hint}"/>
+        <text id="make_a_deal_popup_2" need_translate="false" value="Jugement"/>
+        <text id="make_a_deal_popup_2_disabled_hover" need_translate="false" value=""/>
+        <text id="make_a_deal_popup_2_hover" need_translate="false" value="Consequences:\n{positive_chance}%: Acquittement;\n{negative_chance}%:  Jugé coupable"/>
+        <text id="make_a_deal_popup_fail_header" need_translate="false" value="Affaire criminelle"/>
+        <text id="make_a_deal_popup_fail_text" need_translate="false" value="{styles}Le procureur {prosecutor_name} a refusé de vous aider à cause du peu de preuves compromettantes concernant votre adversaire. D'un autre côté, il est surement inquiet des relations d'influences de {person_name}."/>
+        <text id="make_a_deal_popup_judge_fail_header" need_translate="false" value="Jugement"/>
+        <text id="make_a_deal_popup_judge_fail_text" need_translate="false" value="L'accusé a été reconnu non-coupable! C'est comme s'il avavait pu corrompre quelqu'un... Il a réussi à se tirer de cette situation."/>
+        <text id="make_a_deal_popup_judge_success_header" need_translate="false" value="Jugement"/>
+        <text id="make_a_deal_popup_judge_success_text" need_translate="false" value="{styles}Le juge {judge_name} a condamné {person_name} à {years_in_jail} {year_name} en prison avec confiscation des biens à hauteur de $ {money_penalty}. Cela aura pour effet de restreindre les action de {person_name} ainsi que d'endommager son influence de {reputation_penalty}."/>
+        <text id="make_a_deal_popup_success_header" need_translate="false" value="Affaire criminelle"/>
+        <text id="make_a_deal_popup_success_text" need_translate="false" value="{styles}Le procureur {prosecutor_name} sera ravi de vous aider! Il a ouvert une affaire criminelle contre {person_name} en utilisant les preuves compromettantes concernant votre adversaire. Le juge {judge_name} vas prendre sa décision concernant la culpabilité ou l'innocence de l'accusé."/>
+        <text id="official_result_header_1" need_translate="false" value="Le fonctionnaire a refusé de vous aider."/>
+        <text id="official_result_header_2" need_translate="false" value="Le fonctionnaire a accepté de vous aider."/>
+        <text id="official_result_text_1" need_translate="false" value="Qu'est-ce que vous croyez faire? Vous essayez de me corrompre? C'est un crime! Allez-vous en!... mais vous pouvez laisser l'argent... j'ai besoin de nourrir mes enfants."/>
+        <text id="official_result_text_2" need_translate="false" value="Je suis d'accord pour représenter vos intérêts dans %1."/>
+        <text id="politician_result_header_1" need_translate="false" value="Le politicien a refusé de vous aider."/>
+        <text id="politician_result_header_2" need_translate="false" value="Le politicien a accepté de vous aider."/>
+        <text id="politician_result_text_1" need_translate="false" value="Qu'est-ce que vous croyez faire? Vous essayez de me corrompre? C'est un crime! Allez-vous en!... mais vous pouvez laisser l'argent... j'ai besoin de nourrir mes enfants."/>
+        <text id="politician_result_text_2" need_translate="false" value="Je suis d'accord pour représenter vos intérêts dans l'assemblée législative de %1."/>
+        <text id="reject_law_popup_fail_header" need_translate="false" value="Veto"/>
+        <text id="reject_law_popup_fail_text" need_translate="false" value="Le gouverneur a refusé de rejetter le projet de loi."/>
+        <text id="reject_law_popup_success_header" need_translate="false" value="Veto"/>
+        <text id="reject_law_popup_success_text" need_translate="false" value="Le projet de loi a été rejetté par le gouverneur."/>
     </popup>
 </crimes>

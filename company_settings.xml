@@ -2,19 +2,19 @@
 <company_settings>
     <sector_1>
         <text id="description" need_translate="true" value=""/>
-        <text id="name" need_translate="true" value=""/>
+        <text id="name" need_translate="false" value="Secteur producteur de pétrole"/>
     </sector_1>
     <sector_2>
         <text id="description" need_translate="true" value=""/>
-        <text id="name" need_translate="true" value=""/>
+        <text id="name" need_translate="false" value="Secteur de raffinage du pétrole"/>
     </sector_2>
     <sector_3>
         <text id="description" need_translate="true" value=""/>
-        <text id="name" need_translate="true" value=""/>
+        <text id="name" need_translate="false" value="Services"/>
     </sector_3>
     <sector_4>
         <text id="description" need_translate="true" value=""/>
-        <text id="name" need_translate="true" value=""/>
+        <text id="name" need_translate="false" value="Finance"/>
     </sector_4>
     <size_1>
         <text id="name" need_translate="true" value=""/>
@@ -27,18 +27,18 @@
     </size_3>
     <type_0>
         <text id="description" need_translate="true" value=""/>
-        <text id="name" need_translate="true" value=""/>
+        <text id="name" need_translate="false" value="Extraction pétrolière"/>
     </type_0>
     <type_1>
         <text id="description" need_translate="true" value=""/>
-        <text id="name" need_translate="true" value=""/>
+        <text id="name" need_translate="false" value="Raffinage pétrolier"/>
     </type_1>
     <type_2>
         <text id="description" need_translate="true" value=""/>
-        <text id="name" need_translate="true" value=""/>
+        <text id="name" need_translate="false" value="Transport"/>
     </type_2>
     <type_3>
         <text id="description" need_translate="true" value=""/>
-        <text id="name" need_translate="true" value=""/>
+        <text id="name" need_translate="false" value="Banque"/>
     </type_3>
 </company_settings>
